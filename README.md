@@ -2,6 +2,9 @@
 
 This Python program utilizes the Turtle module to create colorful spirograph patterns. Spirographs are complex geometric patterns created by tracing the path of a point as it revolves around a fixed point.
 
+![Uploading spiral.JPG…]()
+
+
 ## Features
 
 - **Colorful Spirographs**: The program generates spirograph patterns with randomly selected colors.
